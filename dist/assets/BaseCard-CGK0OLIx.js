@@ -1,0 +1,1 @@
+import{d as e,o,c as s,r,n as t,_ as c}from"./index-CC2AWg61.js";const n=e({__name:"BaseCard",props:["color"],setup(d){return(a,l)=>(o(),s("div",{class:t(["card",a.color])},[r(a.$slots,"default",{},void 0)],2))}}),_=c(n,[["__scopeId","data-v-7a65e783"]]);export{_ as default};
